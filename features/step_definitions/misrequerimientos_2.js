@@ -1,10 +1,6 @@
 const assert = require('assert');
 const { Given, When, Then } = require('@cucumber/cucumber');
 
-Given('estoy en el registro', function () {
-  // Write code here that turns the phrase above into concrete actions
-  return 'pending';
-});
 
 When('lleno los campos solicitados', function () {
   // Write code here that turns the phrase above into concrete actions
