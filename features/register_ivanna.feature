@@ -85,3 +85,4 @@ Scenario: The one where Si no se aceptan los términos y condiciones, no se podr
     Given se está realizando un registro
     When no se selecciona “Aceptar términos y condiciones”
     Then no se realiza el registro
+    
