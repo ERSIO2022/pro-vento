@@ -31,10 +31,7 @@ const { Given, When, Then } = require('@cucumber/cucumber');
         return 'pending';
       });
     
-      Given('ingreso a la página de Civiteso', function () {
-        // Write code here that turns the phrase above into concrete actions
-        return 'pending';
-      });
+
     
       When('ingreso mi usuario y contraseña pero son incorrectos', function () {
         // Write code here that turns the phrase above into concrete actions
@@ -76,10 +73,7 @@ const { Given, When, Then } = require('@cucumber/cucumber');
         return 'pending';
       });
     
-      Given('seleccioné la pestaña de registro', function () {
-        // Write code here that turns the phrase above into concrete actions
-        return 'pending';
-      });
+     
     
       When('ingreso algunos de los datos para completar el registro', function () {
         // Write code here that turns the phrase above into concrete actions
@@ -91,10 +85,7 @@ const { Given, When, Then } = require('@cucumber/cucumber');
         return 'pending';
       });
     
-      Given('seleccioné la pestaña de registro', function () {
-        // Write code here that turns the phrase above into concrete actions
-        return 'pending';
-      });
+     
 
       When('no quiero registrar un evento en ese momento', function () {
         // Write code here that turns the phrase above into concrete actions
@@ -106,15 +97,8 @@ const { Given, When, Then } = require('@cucumber/cucumber');
         return 'pending';
       });
     
-      Given('seleccioné la pestaña de registro', function () {
-        // Write code here that turns the phrase above into concrete actions
-        return 'pending';
-      });
     
-      When('no quiero registrar un evento en ese momento', function () {
-        // Write code here that turns the phrase above into concrete actions
-        return 'pending';
-      });
+    
     
       Then('cierro sesión', function () {
         // Write code here that turns the phrase above into concrete actions
@@ -136,15 +120,7 @@ const { Given, When, Then } = require('@cucumber/cucumber');
         return 'pending';
       });
      
-       Given('quiero confirmar mi asistencia a un evento', function () {
-         // Write code here that turns the phrase above into concrete actions
-         return 'pending';
-       });
-     
-       When('completo el registro', function () {
-         // Write code here that turns the phrase above into concrete actions
-         return 'pending';
-       });
+  
      
        Then('me aparece una ventana confirmando mi registro', function () {
          // Write code here that turns the phrase above into concrete actions
@@ -186,10 +162,6 @@ const { Given, When, Then } = require('@cucumber/cucumber');
          return 'pending';
        });
 
-       When('se realiza un registro', function () {
-         // Write code here that turns the phrase above into concrete actions
-         return 'pending';
-       });
      
        Then('No se captura y aparece una ventana que indica {string}', function (string) {
          // Write code here that turns the phrase above into concrete actions
@@ -237,11 +209,6 @@ const { Given, When, Then } = require('@cucumber/cucumber');
        });
      
        Then('se completa el registro', function () {
-         // Write code here that turns the phrase above into concrete actions
-         return 'pending';
-       });
-     
-       Given('se está realizando un registro', function () {
          // Write code here that turns the phrase above into concrete actions
          return 'pending';
        });
