@@ -46,6 +46,19 @@ When('Sistema valida eventos que inician {int} horas antes.', function (int) {
         return 'pending';
     });
 
+When('Sistema valida eventos que inician {int} hora antes', function (int) {
+    // When('Sistema valida eventos que inician {float} hora antes', function (float) {
+        // Write code here that turns the phrase above into concrete actions
+        return 'pending';
+    });
+
+Then('Sistema notifica al usario {int} hora antes el inicio del evento.', function (int) {
+    // Then('Sistema notifica al usario {float} hora antes el inicio del evento.', function (float) {
+        // Write code here that turns the phrase above into concrete actions
+        return 'pending';
+    });
+
+
 Then('Sistema notifica al usuario {int} horas antes el inicio del evento', function (int) {
     // Then('Sistema notifica al usuario {float} horas antes el inicio del evento', function (float) {
         // Write code here that turns the phrase above into concrete actions
