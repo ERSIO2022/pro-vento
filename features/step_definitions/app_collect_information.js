@@ -69,27 +69,7 @@ Then(
   }
 );
 
-Given("the user is in the day of the event", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
-Given("is not registred", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
 Given("not exist availability in the event", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
-When("the user tries to enter to the event", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
-Then("the user is registred as interested to the event", function () {
   // Write code here that turns the phrase above into concrete actions
   return "pending";
 });
@@ -142,11 +122,6 @@ Then(
     return "pending";
   }
 );
-
-Given("the user unregistred to a certain event", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
 
 When("the user click the register button many times", function () {
   // Write code here that turns the phrase above into concrete actions

@@ -21,27 +21,12 @@ Then("order them from the aproximate events to the farthest", function () {
   return "pending";
 });
 
-Given("the user has categories on their account", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
-When("the user opens the feed", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
 Then("the feed autoselect filters", function () {
   // Write code here that turns the phrase above into concrete actions
   return "pending";
 });
 
 Then("display the events that have the selected categories", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
-Given("the user has categories on their account", function () {
   // Write code here that turns the phrase above into concrete actions
   return "pending";
 });
@@ -74,11 +59,6 @@ Given("the user has not filters selected", function () {
   return "pending";
 });
 
-When("the user opens the feed", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
 Then("the feed will show all the events regard the categories", function () {
   // Write code here that turns the phrase above into concrete actions
   return "pending";
@@ -95,11 +75,6 @@ When("the user select the order selector button", function () {
 });
 
 Then("the feed will show in a diferent order the events", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
-Given("the user have open the feed", function () {
   // Write code here that turns the phrase above into concrete actions
   return "pending";
 });

@@ -16,11 +16,6 @@ Then("the button remains deactivated", function () {
   return "pending";
 });
 
-Given("the user open the form", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
 When("the fill the mandatory fields", function () {
   // Write code here that turns the phrase above into concrete actions
   return "pending";
@@ -31,22 +26,12 @@ Then("the button appears activated", function () {
   return "pending";
 });
 
-Given("the user open the form", function () {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
 When("the user click {string}", function (string) {
   // Write code here that turns the phrase above into concrete actions
   return "pending";
 });
 
 Then("the data should be saved as a new {string} event", function (string) {
-  // Write code here that turns the phrase above into concrete actions
-  return "pending";
-});
-
-Given("the user open the form", function () {
   // Write code here that turns the phrase above into concrete actions
   return "pending";
 });
