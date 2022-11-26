@@ -27,7 +27,7 @@ const { Given, When, Then } = require('@cucumber/cucumber');
         return 'pending';
       });
 
-      Then('me dirige a la pagina principal.', function () {
+      Then('me dirigio a la pagina principal.', function () {
         // Write code here that turns the phrase above into concrete actions
         return 'pending';
       });
@@ -53,7 +53,7 @@ const { Given, When, Then } = require('@cucumber/cucumber');
       });
 
 
-      When('intento dar clic en registrarme al evento.', function () {
+      When('doy clic en registrarme al evento.', function () {
         // Write code here that turns the phrase above into concrete actions
         return 'pending';
       });
