@@ -1,0 +1,25 @@
+{
+  "name": "pro-vento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERSIO2022/pro-vento.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERSIO2022/pro-vento/issues"
+  },
+  "homepage": "https://github.com/ERSIO2022/pro-vento#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.8.0"
+  }
+}
